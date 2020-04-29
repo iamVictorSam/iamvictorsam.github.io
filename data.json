@@ -1,0 +1,175 @@
+{
+    "states" :{
+        "state1": "00",
+        "state2": "00",
+        "state3": "00",
+        "state4": "00",
+        "state5": "00",
+        "state6": "00",
+        "state7": "00",
+        "state8": "00",
+        "state9": "00",
+        "state10": "00"
+    },
+    "contryData" :{
+        "totalConfirmed": "00",
+        "totalDischarged":"00",
+        "totalDeaths": "00"
+    },
+    "nigerianStates" :[
+        {
+            "newCase": "00",
+            "totalConfirmed": "00",
+            "discharged": "00",
+            "deaths": "00"
+        },
+        {
+            "state": "Abia",
+            "capital": "Umuahia"
+        },
+        {
+            "state": "Adamawa",
+            "capital": "Yola"
+        },
+        {
+            "state": "Akwa Ibom",
+            "capital": "Uyo"
+        },
+        {
+            "state": "Anambra",
+            "capital": "Awka"
+        },
+        {
+            "state": "Bauchi",
+            "capital": "Bauchi"
+        },
+        {
+            "state": "Bayelsa",
+            "capital": "Yenegoa"
+        },
+        {
+            "state": "Benue",
+            "capital": "Makurdi"
+        },
+        {
+            "state": "Borno",
+            "capital": "Maiduguri"
+        },
+        {
+            "state": "Cross rivers",
+            "capital": "Calaba"
+        },
+        {
+            "state": "Delta",
+            "capital": "Asaba"
+        },
+        {
+            "state": "Ebonyi",
+            "capital": "Abakaliki"
+        },
+        {
+            "state": "Edo",
+            "capital": "Benin city"
+        },
+        {
+            "state": "Ekiti",
+            "capital": "Ado-ekiti"
+        },
+        {
+            "state": "Enugu",
+            "capital": "Enugu"
+        },
+        {
+            "state": "Gombe",
+            "capital": "Gombe"
+        },
+        {
+            "state": "Imo",
+            "capital": "Owerri"
+        },
+        {
+            "state": "Jigawa ",
+            "capital": "Dutse"
+        },
+        {
+            "state": "Kaduna",
+            "capital": "Kaduna"
+        },
+        {
+            "state": "Kano",
+            "capital": "Kano"
+        },
+        {
+            "state": "Katsina",
+            "capital": "Katsina"
+        },
+        {
+            "state": "kebbi",
+            "capital": "Birnin kebbi"
+        },
+        {
+            "state": "Kogi",
+            "capital": "Lokoja"
+        },
+        {
+            "state": "kwara",
+            "capital": "Ilorin"
+        },
+        {
+            "state": "Lagos",
+            "capital": "Ikeja"
+        },
+        {
+            "state": "Nasarawa",
+            "capital": "Lafia"
+        },
+        {
+            "state": "Niger",
+            "capital": "Minna"
+        },
+        {
+            "state": "Ogun",
+            "capital": "Abeokuta"
+        },
+        {
+            "state": "Ondo",
+            "capital": "Akure"
+        },
+        {
+            "state": "Osun",
+            "capital": "Oshogbo"
+        },
+        {
+            "state": "Oyo",
+            "capital": "Ibadan"
+        },
+        {
+            "state": "Plateau",
+            "capital": "Jos"
+        },
+        {
+            "state": "Rivers",
+            "capital": "Port Harcourt"
+        },
+        {
+            "state": "Sokoto",
+            "capital": "Sokoto"
+        },
+        {
+            "state": "Taraba",
+            "capital": "Jalingo"
+        },
+        {
+            "state": "Yobe",
+            "capital": "Damaturu"
+        },
+        {
+            "state": "Zamfara",
+            "capital": "Gusau"
+        },
+        {
+            "state": "FCT",
+            "capital": "Abuja"
+        }
+    ]
+}
